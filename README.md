@@ -35,3 +35,5 @@ It is especially useful on Windows, where signal support is limited and this app
 
 - `runner.py` — Entry point, sets up signal handling and runs the async handler.
 - `example_async_handler.py` — Contains the example async handler logic.
+
+> And yes, I wrote the README.md with AI help to speed up the writing of the summary. That's the only thing the AI ​​contributed to.
